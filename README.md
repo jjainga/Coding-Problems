@@ -20,6 +20,6 @@ No steps, just solving problems the best I can
 MIT Lincse
        
 ## Credits
-GitHub usernames
+GitHub usernames:
 jjainga
          
